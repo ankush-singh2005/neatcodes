@@ -1,0 +1,28 @@
+class Solution {
+public:
+    bool isValid(string s) {
+
+      //using stack dsa
+        stack<char> st;
+        for(char i:s){
+
+// here we shall create a stack where we will push elements in it if it is a starting bracket and if we encounter a closing brackey we shall check if the bracket at the top of the array is the openin for it or no.
+//   If it is then we will pop the element from the stack and repeated;y do this. if it is a valid parenthesis then at the end we should get an empty stack. else there will be some element present in it.
+          
+            if(i=='['||i=='{'||i=='('){
+                st.push(i);
+            }
+            else{
+                if(st.empty()) return false;
+                if(i==']'&&st.top()=='[' || i=='}' && st.top()=='{'|| i==')' && st.top()=='('){
+                    st.pop();
+                }
+                else{
+                    return false;
+                }
+
+            }
+        }
+        return (st.empty());
+    }
+};
