@@ -13,6 +13,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ankush-singh2005/neatcodes/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
@@ -32,9 +33,14 @@ i got you solutions for your leetcode screw ups
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
