@@ -59,4 +59,9 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
