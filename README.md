@@ -46,4 +46,12 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
