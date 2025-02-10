@@ -7,6 +7,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +78,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
