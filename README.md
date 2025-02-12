@@ -100,18 +100,22 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
