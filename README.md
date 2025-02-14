@@ -102,6 +102,7 @@ i got you solutions for your leetcode screw ups
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ i got you solutions for your leetcode screw ups
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,9 +118,11 @@ i got you solutions for your leetcode screw ups
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
