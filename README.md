@@ -13,6 +13,7 @@ i got you solutions for your leetcode screw ups
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -155,4 +156,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
