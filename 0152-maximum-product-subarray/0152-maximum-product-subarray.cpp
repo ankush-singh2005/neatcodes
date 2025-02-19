@@ -1,25 +1,24 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int max1=INT_MIN;
-        int max2=INT_MIN;
         int prod=1;
+        int m1=INT_MIN;
+        int m2=INT_MIN;
 
-        //left
+        //finding out the max product subarray when going left to right
         for(int i=0;i<nums.size();i++){
             if(prod==0) prod=1;
-            prod=prod*nums[i];
-            if(prod>max1) max1=prod;
+            prod*=nums[i];
+            if(prod>m1) m1=prod;
         }
 
-        //right
+        //finding out the max product subarray when going right to left
         prod=1;
         for(int i=nums.size()-1;i>=0;i--){
             if(prod==0) prod=1;
-            prod=prod*nums[i];
-            if(prod>max2) max2=prod;
+            prod*=nums[i];
+            if(prod>m2) m2=prod;
         }
-
-        return max(max1,max2);
+        return max(m1,m2);
     }
 };
