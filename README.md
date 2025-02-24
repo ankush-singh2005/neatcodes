@@ -15,6 +15,7 @@ i got you solutions for your leetcode screw ups
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 ## Counting
 |  |
 | ------- |
