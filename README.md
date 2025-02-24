@@ -43,6 +43,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ankush-singh2005/neatcodes/tree/master/0278-first-bad-version) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,4 +172,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ankush-singh2005/neatcodes/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
