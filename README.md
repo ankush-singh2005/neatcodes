@@ -62,6 +62,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
@@ -71,6 +72,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -197,4 +199,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankush-singh2005/neatcodes/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
