@@ -134,6 +134,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +180,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
