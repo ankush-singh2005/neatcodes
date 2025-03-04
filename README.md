@@ -94,6 +94,7 @@ i got you solutions for your leetcode screw ups
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -135,6 +136,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -182,6 +184,7 @@ i got you solutions for your leetcode screw ups
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
