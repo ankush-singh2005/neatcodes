@@ -12,6 +12,7 @@ i got you solutions for your leetcode screw ups
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
@@ -93,6 +94,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -247,4 +249,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
