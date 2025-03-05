@@ -1,57 +1,30 @@
 class Solution {
 public:
-    void nextS(vector<int>& heights, vector<int>& nextSmaller){
-        stack<int> st;
-        for(int i=0;i<heights.size();i++){
-            while(!st.empty()&&heights[st.top()]>=heights[i]){
-                int top=st.top();
-                st.pop();
-                nextSmaller[top]=i;
-            }
-            st.push(i);
-        }
-        return;
-    }
-    void prevS(vector<int>& heights, vector<int>& prevSmaller){
-        stack<int> st;
-        for(int i=0;i<heights.size();i++){
-            while(!st.empty()&&heights[st.top()]>=heights[i]){
-                int top=st.top();
-                st.pop();
-            }
-            if(st.size()){
-                prevSmaller[i]=st.top();
-            }
-            st.push(i);
-        }
-        return;
-    }
-
     int largestRectangleArea(vector<int>& heights) {
-        vector<int> nextSmaller(heights.size(),heights.size());
-        vector<int> prevSmaller(heights.size(),-1);
+        int n = heights.size();
+        stack<int> st;
+        vector<int> nextSmaller(n, n);  // Initialize with `n`
+        vector<int> prevSmaller(n, -1); // Initialize with `-1`
         
-
-        //making nextSmaller and prevSmaller;
-        nextS(heights, nextSmaller);
-        prevS(heights, prevSmaller);
-        int m=0;
-
-        for(int i=0;i<heights.size();i++){
-            cout<<nextSmaller[i]<<" ";
-        }
-        cout<<endl;
-        for(int i=0;i<heights.size();i++){
-            cout<<prevSmaller[i]<<" ";
+        // Single pass to find both nextSmaller and prevSmaller
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && heights[st.top()] > heights[i]) {
+                nextSmaller[st.top()] = i; // Store next smaller index
+                st.pop();
+            }
+            if (!st.empty()) {
+                prevSmaller[i] = st.top(); // Store previous smaller index
+            }
+            st.push(i);
         }
 
-        for(int i=0;i<heights.size();i++){
-            int area;
-            int width=nextSmaller[i]-prevSmaller[i]-1;
-            area=heights[i]*width;
-            m=max(m,area);
+        int maxArea = 0;
+        for (int i = 0; i < n; i++) {
+            int width = nextSmaller[i] - prevSmaller[i] - 1;
+            int area = heights[i] * width;
+            maxArea = max(maxArea, area);
         }
 
-        return m;
+        return maxArea;
     }
 };
