@@ -82,6 +82,7 @@ i got you solutions for your leetcode screw ups
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
 | ------- |
