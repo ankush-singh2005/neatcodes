@@ -23,6 +23,7 @@ i got you solutions for your leetcode screw ups
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ i got you solutions for your leetcode screw ups
 | [0138-copy-list-with-random-pointer](https://github.com/ankush-singh2005/neatcodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ i got you solutions for your leetcode screw ups
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +126,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
