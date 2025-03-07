@@ -86,6 +86,7 @@ i got you solutions for your leetcode screw ups
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -266,4 +267,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
