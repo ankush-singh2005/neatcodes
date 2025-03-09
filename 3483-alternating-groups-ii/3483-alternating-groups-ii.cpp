@@ -1,6 +1,8 @@
 class Solution {
 public:
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
+
+        //whenever you see that the array is circular just append the array to itself and then do the operation upon it.
         for(int i=0;i<k-1;i++){
             colors.push_back(colors[i]);
         }
