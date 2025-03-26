@@ -130,6 +130,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@ i got you solutions for your leetcode screw ups
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
@@ -235,6 +237,7 @@ i got you solutions for your leetcode screw ups
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
@@ -314,4 +317,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
