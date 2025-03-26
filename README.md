@@ -185,6 +185,7 @@ i got you solutions for your leetcode screw ups
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankush-singh2005/neatcodes/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
@@ -232,6 +233,7 @@ i got you solutions for your leetcode screw ups
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -320,5 +322,10 @@ i got you solutions for your leetcode screw ups
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
