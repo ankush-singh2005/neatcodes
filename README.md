@@ -131,6 +131,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +195,7 @@ i got you solutions for your leetcode screw ups
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -248,6 +250,7 @@ i got you solutions for your leetcode screw ups
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
@@ -327,6 +330,7 @@ i got you solutions for your leetcode screw ups
 | [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
