@@ -135,6 +135,7 @@ i got you solutions for your leetcode screw ups
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +202,7 @@ i got you solutions for your leetcode screw ups
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -257,6 +259,7 @@ i got you solutions for your leetcode screw ups
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
 |  |
@@ -338,6 +341,7 @@ i got you solutions for your leetcode screw ups
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
