@@ -51,6 +51,8 @@ public:
         for(auto it:mp){
             long long size=it.second;
             result += size * (remainingNodes-size);
+
+            //since the component has been processed we need to decrease the number of remainingNodes by subtracting the size of the current component. 
             remainingNodes -= size;
         }
         return result;
