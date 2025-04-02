@@ -26,6 +26,7 @@ i got you solutions for your leetcode screw ups
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3463-alternating-groups-i) |
@@ -43,6 +44,7 @@ i got you solutions for your leetcode screw ups
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -137,6 +139,7 @@ i got you solutions for your leetcode screw ups
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,6 +183,7 @@ i got you solutions for your leetcode screw ups
 | [0784-insert-into-a-binary-search-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -204,6 +208,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -261,6 +266,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
 |  |
@@ -343,6 +349,7 @@ i got you solutions for your leetcode screw ups
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankush-singh2005/neatcodes/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
 | ------- |
