@@ -26,6 +26,7 @@ i got you solutions for your leetcode screw ups
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3483-alternating-groups-ii) |
