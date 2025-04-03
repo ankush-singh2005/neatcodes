@@ -35,6 +35,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
@@ -72,6 +73,7 @@ i got you solutions for your leetcode screw ups
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +89,7 @@ i got you solutions for your leetcode screw ups
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ankush-singh2005/neatcodes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
