@@ -18,6 +18,7 @@ i got you solutions for your leetcode screw ups
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +140,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ankush-singh2005/neatcodes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ankush-singh2005/neatcodes/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankush-singh2005/neatcodes/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -156,6 +158,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -200,6 +203,7 @@ i got you solutions for your leetcode screw ups
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0226-invert-binary-tree) |
@@ -255,6 +259,7 @@ i got you solutions for your leetcode screw ups
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0226-invert-binary-tree) |
