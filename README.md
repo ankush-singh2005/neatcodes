@@ -26,6 +26,7 @@ i got you solutions for your leetcode screw ups
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -109,6 +110,7 @@ i got you solutions for your leetcode screw ups
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -118,6 +120,7 @@ i got you solutions for your leetcode screw ups
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@ i got you solutions for your leetcode screw ups
 | [0077-combinations](https://github.com/ankush-singh2005/neatcodes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -372,4 +376,12 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0207-course-schedule](https://github.com/ankush-singh2005/neatcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
