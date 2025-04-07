@@ -95,6 +95,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ankush-singh2005/neatcodes/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush-singh2005/neatcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ankush-singh2005/neatcodes/tree/master/0038-count-and-say) |
@@ -402,4 +403,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ankush-singh2005/neatcodes/tree/master/0744-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankush-singh2005/neatcodes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
