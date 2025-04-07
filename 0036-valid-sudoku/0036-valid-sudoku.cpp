@@ -12,6 +12,7 @@ public:
     bool isValidSudoku(vector<vector<char>>& board) {
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
+                //whenever you find a non empty character remove it first ie boar[i][j] ko '.' assign karo aur jo bhi value tha use ek variable me store ke ar lo. and then send that variable in the check function. and then after the check reassign the value back into board[i][j].
                 if(board[i][j] != '.'){
                     char ch = board[i][j];
                     board[i][j] = '.';
