@@ -7,6 +7,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
@@ -41,6 +42,7 @@ i got you solutions for your leetcode screw ups
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush-singh2005/neatcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -168,6 +170,7 @@ i got you solutions for your leetcode screw ups
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
