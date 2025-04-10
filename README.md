@@ -20,6 +20,7 @@ i got you solutions for your leetcode screw ups
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
@@ -326,6 +327,7 @@ i got you solutions for your leetcode screw ups
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
