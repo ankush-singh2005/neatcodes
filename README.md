@@ -14,6 +14,7 @@ i got you solutions for your leetcode screw ups
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
@@ -112,6 +113,7 @@ i got you solutions for your leetcode screw ups
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
@@ -175,6 +177,7 @@ i got you solutions for your leetcode screw ups
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ankush-singh2005/neatcodes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
@@ -182,6 +185,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -280,6 +284,7 @@ i got you solutions for your leetcode screw ups
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0104-maximum-depth-of-binary-tree) |
