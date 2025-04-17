@@ -38,6 +38,7 @@ i got you solutions for your leetcode screw ups
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -61,6 +62,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankush-singh2005/neatcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
@@ -127,6 +129,7 @@ i got you solutions for your leetcode screw ups
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
@@ -158,6 +161,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
 |  |
 | ------- |
