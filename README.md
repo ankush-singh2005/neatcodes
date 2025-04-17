@@ -19,6 +19,7 @@ i got you solutions for your leetcode screw ups
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush-singh2005/neatcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
@@ -343,6 +344,7 @@ i got you solutions for your leetcode screw ups
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush-singh2005/neatcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0213-house-robber-ii) |
