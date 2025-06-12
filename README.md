@@ -53,6 +53,7 @@ i got you solutions for your leetcode screw ups
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3483-alternating-groups-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush-singh2005/neatcodes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
