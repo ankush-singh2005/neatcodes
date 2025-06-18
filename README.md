@@ -51,6 +51,7 @@ i got you solutions for your leetcode screw ups
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3463-alternating-groups-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3483-alternating-groups-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush-singh2005/neatcodes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -351,6 +352,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -411,6 +413,7 @@ i got you solutions for your leetcode screw ups
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ankush-singh2005/neatcodes/tree/master/0135-candy) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
