@@ -151,6 +151,7 @@ i got you solutions for your leetcode screw ups
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ankush-singh2005/neatcodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankush-singh2005/neatcodes/tree/master/2649-count-total-number-of-colored-cells) |
@@ -362,6 +363,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0024-swap-nodes-in-pairs) |
+| [2050-count-good-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
