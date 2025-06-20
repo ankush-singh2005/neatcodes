@@ -138,6 +138,7 @@ i got you solutions for your leetcode screw ups
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
@@ -184,6 +185,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
 |  |
