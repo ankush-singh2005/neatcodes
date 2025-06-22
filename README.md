@@ -139,6 +139,7 @@ i got you solutions for your leetcode screw ups
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
@@ -408,6 +409,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
