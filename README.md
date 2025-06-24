@@ -44,6 +44,7 @@ i got you solutions for your leetcode screw ups
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -97,6 +98,7 @@ i got you solutions for your leetcode screw ups
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
