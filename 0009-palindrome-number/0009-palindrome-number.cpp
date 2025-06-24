@@ -4,12 +4,12 @@ public:
         if(x<0) return false;
         long long n=x;
         long long rev=0;
-        while(n>0){
-            int rem=n%10;
-            rev=rev*10+rem;
+        while(n!=0){
+            int l=n%10;
+            rev=rev*10+l;
             n=n/10;
         }
-        if(rev==x) return true;
+        if(x==rev) return true;
         else return false;
     }
 };
