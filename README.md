@@ -34,6 +34,7 @@ i got you solutions for your leetcode screw ups
 | [0322-coin-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/ankush-singh2005/neatcodes/tree/master/0403-frog-jump) |
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -71,6 +72,7 @@ i got you solutions for your leetcode screw ups
 | [0138-copy-list-with-random-pointer](https://github.com/ankush-singh2005/neatcodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankush-singh2005/neatcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -114,6 +116,7 @@ i got you solutions for your leetcode screw ups
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -188,6 +191,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
@@ -355,6 +359,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
