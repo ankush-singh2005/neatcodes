@@ -165,6 +165,7 @@ i got you solutions for your leetcode screw ups
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +173,7 @@ i got you solutions for your leetcode screw ups
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -374,6 +376,7 @@ i got you solutions for your leetcode screw ups
 | [0002-add-two-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0024-swap-nodes-in-pairs) |
 | [2050-count-good-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -419,6 +422,7 @@ i got you solutions for your leetcode screw ups
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
