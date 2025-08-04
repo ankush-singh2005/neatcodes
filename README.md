@@ -25,6 +25,7 @@ i got you solutions for your leetcode screw ups
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ankush-singh2005/neatcodes/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
@@ -155,6 +156,7 @@ i got you solutions for your leetcode screw ups
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -180,6 +182,7 @@ i got you solutions for your leetcode screw ups
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankush-singh2005/neatcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankush-singh2005/neatcodes/tree/master/0155-min-stack) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0776-n-ary-tree-postorder-traversal) |
