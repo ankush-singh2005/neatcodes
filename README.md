@@ -58,6 +58,7 @@ i got you solutions for your leetcode screw ups
 | [3463-alternating-groups-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3483-alternating-groups-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush-singh2005/neatcodes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ i got you solutions for your leetcode screw ups
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ankush-singh2005/neatcodes/tree/master/0278-first-bad-version) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -426,6 +428,7 @@ i got you solutions for your leetcode screw ups
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -491,4 +494,12 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
