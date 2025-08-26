@@ -13,6 +13,7 @@ i got you solutions for your leetcode screw ups
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
@@ -232,6 +233,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
@@ -427,6 +429,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
