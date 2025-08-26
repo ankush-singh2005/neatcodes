@@ -251,6 +251,7 @@ i got you solutions for your leetcode screw ups
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -282,6 +283,7 @@ i got you solutions for your leetcode screw ups
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankush-singh2005/neatcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
@@ -315,6 +317,7 @@ i got you solutions for your leetcode screw ups
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -341,6 +344,7 @@ i got you solutions for your leetcode screw ups
 | [0098-validate-binary-search-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0129-sum-root-to-leaf-numbers) |
