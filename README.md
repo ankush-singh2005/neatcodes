@@ -41,6 +41,7 @@ i got you solutions for your leetcode screw ups
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1656-count-good-triplets](https://github.com/ankush-singh2005/neatcodes/tree/master/1656-count-good-triplets) |
@@ -85,6 +86,7 @@ i got you solutions for your leetcode screw ups
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankush-singh2005/neatcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
@@ -128,6 +130,7 @@ i got you solutions for your leetcode screw ups
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -139,6 +142,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -169,6 +173,7 @@ i got you solutions for your leetcode screw ups
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
