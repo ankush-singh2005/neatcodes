@@ -87,6 +87,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankush-singh2005/neatcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ankush-singh2005/neatcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2448-count-number-of-bad-pairs) |
@@ -132,6 +133,7 @@ i got you solutions for your leetcode screw ups
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -159,6 +161,7 @@ i got you solutions for your leetcode screw ups
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
