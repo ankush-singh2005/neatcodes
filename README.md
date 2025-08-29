@@ -40,6 +40,7 @@ i got you solutions for your leetcode screw ups
 | [0498-diagonal-traverse](https://github.com/ankush-singh2005/neatcodes/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -84,6 +85,7 @@ i got you solutions for your leetcode screw ups
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ankush-singh2005/neatcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -131,6 +133,7 @@ i got you solutions for your leetcode screw ups
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -144,6 +147,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
+| [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
