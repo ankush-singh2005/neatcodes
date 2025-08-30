@@ -45,6 +45,7 @@ i got you solutions for your leetcode screw ups
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1656-count-good-triplets](https://github.com/ankush-singh2005/neatcodes/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -137,6 +138,7 @@ i got you solutions for your leetcode screw ups
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -445,6 +447,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankush-singh2005/neatcodes/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/ankush-singh2005/neatcodes/tree/master/0744-network-delay-time) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -533,5 +536,14 @@ i got you solutions for your leetcode screw ups
 ## Ordered Set
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/3790-fruits-into-baskets-ii) |
+## Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
