@@ -83,6 +83,7 @@ i got you solutions for your leetcode screw ups
 | [0138-copy-list-with-random-pointer](https://github.com/ankush-singh2005/neatcodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
@@ -132,6 +133,7 @@ i got you solutions for your leetcode screw ups
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
@@ -165,6 +167,7 @@ i got you solutions for your leetcode screw ups
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
