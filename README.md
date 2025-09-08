@@ -193,6 +193,7 @@ i got you solutions for your leetcode screw ups
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/ankush-singh2005/neatcodes/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/2050-count-good-numbers) |
