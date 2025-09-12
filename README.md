@@ -179,6 +179,7 @@ i got you solutions for your leetcode screw ups
 | [1534-minimum-number-of-frogs-croaking](https://github.com/ankush-singh2005/neatcodes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankush-singh2005/neatcodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3462-vowels-game-in-a-string](https://github.com/ankush-singh2005/neatcodes/tree/master/3462-vowels-game-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +204,7 @@ i got you solutions for your leetcode screw ups
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/ankush-singh2005/neatcodes/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/ankush-singh2005/neatcodes/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -559,4 +561,12 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ankush-singh2005/neatcodes/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ankush-singh2005/neatcodes/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
