@@ -60,6 +60,7 @@ i got you solutions for your leetcode screw ups
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankush-singh2005/neatcodes/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankush-singh2005/neatcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -415,6 +416,7 @@ i got you solutions for your leetcode screw ups
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String Matching
 |  |
@@ -532,6 +534,7 @@ i got you solutions for your leetcode screw ups
 | [1656-count-good-triplets](https://github.com/ankush-singh2005/neatcodes/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Shortest Path
 |  |
 | ------- |
