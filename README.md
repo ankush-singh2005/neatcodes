@@ -193,6 +193,7 @@ i got you solutions for your leetcode screw ups
 | [0013-roman-to-integer](https://github.com/ankush-singh2005/neatcodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ankush-singh2005/neatcodes/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ankush-singh2005/neatcodes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
@@ -433,6 +434,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ankush-singh2005/neatcodes/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/ankush-singh2005/neatcodes/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
