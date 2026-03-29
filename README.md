@@ -16,6 +16,7 @@ i got you solutions for your leetcode screw ups
 | [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/ankush-singh2005/neatcodes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankush-singh2005/neatcodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
@@ -194,6 +195,7 @@ i got you solutions for your leetcode screw ups
 | [0029-divide-two-integers](https://github.com/ankush-singh2005/neatcodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ankush-singh2005/neatcodes/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ankush-singh2005/neatcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankush-singh2005/neatcodes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
