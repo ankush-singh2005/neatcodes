@@ -1,28 +1,30 @@
 class Solution {
 public:
-    void recurPermute(vector<int> &nums, vector<vector<int>> &ans, vector<int> &ds, vector<int> &freq){
-        if(ds.size()==nums.size()){
-            ans.push_back(ds);
+    void solve(vector<int>& nums, vector<bool> &visited, vector<vector<int>> &ans, vector<int> &temp){
+        if(temp.size()==nums.size()){
+            ans.push_back(temp);
             return;
         }
+
         for(int i=0;i<nums.size();i++){
-            if(i>0 && nums[i]==nums[i-1]&& !freq[i-1]) continue;
-            if(!freq[i]){
-                ds.push_back(nums[i]);
-                freq[i]=1;
-                recurPermute(nums,ans,ds,freq);
-                ds.pop_back();
-                freq[i]=0;
-            }
+            if(visited[i]==true) continue;
+            if(i>0 && nums[i]==nums[i-1] && visited[i-1]!= true) continue;
+            visited[i]=true;
+            temp.push_back(nums[i]);
+            solve(nums,visited,ans,temp);
+            temp.pop_back();
+            visited[i]=false;
         }
     }
 
     vector<vector<int>> permuteUnique(vector<int>& nums) {
+        vector<bool> visited(nums.size(), false);
+        sort(nums.begin(), nums.end());
+
+
         vector<vector<int>> ans;
-        vector<int> ds;
-        sort(nums.begin(),nums.end());
-        vector<int> freq(nums.size(),0);
-        recurPermute(nums,ans,ds,freq);
+        vector<int> temp;
+        solve(nums,visited,ans,temp);
         return ans;
     }
 };
