@@ -177,6 +177,7 @@ i got you solutions for your leetcode screw ups
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ankush-singh2005/neatcodes/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/ankush-singh2005/neatcodes/tree/master/0686-repeated-string-match) |
@@ -269,6 +270,7 @@ i got you solutions for your leetcode screw ups
 | [0078-subsets](https://github.com/ankush-singh2005/neatcodes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ankush-singh2005/neatcodes/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
@@ -447,6 +449,7 @@ i got you solutions for your leetcode screw ups
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush-singh2005/neatcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankush-singh2005/neatcodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/ankush-singh2005/neatcodes/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0213-house-robber-ii) |
