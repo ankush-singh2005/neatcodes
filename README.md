@@ -10,6 +10,7 @@ i got you solutions for your leetcode screw ups
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush-singh2005/neatcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
@@ -264,6 +265,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush-singh2005/neatcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ankush-singh2005/neatcodes/tree/master/0077-combinations) |
