@@ -44,6 +44,7 @@ i got you solutions for your leetcode screw ups
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ankush-singh2005/neatcodes/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
+| [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankush-singh2005/neatcodes/tree/master/1046-max-consecutive-ones-iii) |
@@ -506,6 +507,7 @@ i got you solutions for your leetcode screw ups
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ankush-singh2005/neatcodes/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search Tree
