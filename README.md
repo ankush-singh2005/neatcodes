@@ -54,6 +54,7 @@ i got you solutions for your leetcode screw ups
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1656-count-good-triplets](https://github.com/ankush-singh2005/neatcodes/tree/master/1656-count-good-triplets) |
+| [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankush-singh2005/neatcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush-singh2005/neatcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -431,6 +432,7 @@ i got you solutions for your leetcode screw ups
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush-singh2005/neatcodes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ankush-singh2005/neatcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -508,6 +510,7 @@ i got you solutions for your leetcode screw ups
 | [0135-candy](https://github.com/ankush-singh2005/neatcodes/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search Tree
