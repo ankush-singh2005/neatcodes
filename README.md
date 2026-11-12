@@ -44,6 +44,7 @@ i got you solutions for your leetcode screw ups
 | [0463-island-perimeter](https://github.com/ankush-singh2005/neatcodes/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ankush-singh2005/neatcodes/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/ankush-singh2005/neatcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
@@ -148,6 +149,7 @@ i got you solutions for your leetcode screw ups
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/ankush-singh2005/neatcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankush-singh2005/neatcodes/tree/master/1046-max-consecutive-ones-iii) |
