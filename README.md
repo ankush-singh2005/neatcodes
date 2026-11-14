@@ -55,6 +55,7 @@ i got you solutions for your leetcode screw ups
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankush-singh2005/neatcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankush-singh2005/neatcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1656-count-good-triplets](https://github.com/ankush-singh2005/neatcodes/tree/master/1656-count-good-triplets) |
 | [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
@@ -162,6 +163,7 @@ i got you solutions for your leetcode screw ups
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankush-singh2005/neatcodes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankush-singh2005/neatcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankush-singh2005/neatcodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankush-singh2005/neatcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankush-singh2005/neatcodes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankush-singh2005/neatcodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankush-singh2005/neatcodes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -474,6 +476,7 @@ i got you solutions for your leetcode screw ups
 | [0322-coin-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/ankush-singh2005/neatcodes/tree/master/0403-frog-jump) |
 | [1250-longest-common-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/1250-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankush-singh2005/neatcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
