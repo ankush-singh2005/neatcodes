@@ -8,6 +8,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0001-two-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush-singh2005/neatcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankush-singh2005/neatcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0039-combination-sum) |
@@ -128,6 +129,7 @@ i got you solutions for your leetcode screw ups
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankush-singh2005/neatcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ankush-singh2005/neatcodes/tree/master/0125-valid-palindrome) |
