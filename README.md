@@ -33,6 +33,7 @@ i got you solutions for your leetcode screw ups
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankush-singh2005/neatcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankush-singh2005/neatcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ankush-singh2005/neatcodes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
@@ -128,6 +129,7 @@ i got you solutions for your leetcode screw ups
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ankush-singh2005/neatcodes/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankush-singh2005/neatcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ankush-singh2005/neatcodes/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -140,6 +142,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush-singh2005/neatcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankush-singh2005/neatcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ankush-singh2005/neatcodes/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankush-singh2005/neatcodes/tree/master/1004-max-consecutive-ones-iii) |
