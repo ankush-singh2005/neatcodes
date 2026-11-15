@@ -38,6 +38,7 @@ i got you solutions for your leetcode screw ups
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/ankush-singh2005/neatcodes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/ankush-singh2005/neatcodes/tree/master/0403-frog-jump) |
@@ -131,6 +132,7 @@ i got you solutions for your leetcode screw ups
 | [0086-partition-list](https://github.com/ankush-singh2005/neatcodes/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ankush-singh2005/neatcodes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankush-singh2005/neatcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ankush-singh2005/neatcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankush-singh2005/neatcodes/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
