@@ -16,6 +16,7 @@ i got you solutions for your leetcode screw ups
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0059-spiral-matrix-ii) |
@@ -485,6 +486,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankush-singh2005/neatcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush-singh2005/neatcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -511,6 +513,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush-singh2005/neatcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ankush-singh2005/neatcodes/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
