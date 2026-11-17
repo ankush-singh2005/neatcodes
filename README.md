@@ -50,6 +50,7 @@ i got you solutions for your leetcode screw ups
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ankush-singh2005/neatcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/ankush-singh2005/neatcodes/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankush-singh2005/neatcodes/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ i got you solutions for your leetcode screw ups
 | [0344-reverse-string](https://github.com/ankush-singh2005/neatcodes/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankush-singh2005/neatcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankush-singh2005/neatcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankush-singh2005/neatcodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankush-singh2005/neatcodes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -459,6 +461,7 @@ i got you solutions for your leetcode screw ups
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
+| [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankush-singh2005/neatcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush-singh2005/neatcodes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
@@ -540,6 +543,7 @@ i got you solutions for your leetcode screw ups
 | [0135-candy](https://github.com/ankush-singh2005/neatcodes/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/ankush-singh2005/neatcodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2650-split-with-minimum-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/2650-split-with-minimum-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ankush-singh2005/neatcodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -626,4 +630,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ankush-singh2005/neatcodes/tree/master/3462-vowels-game-in-a-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
