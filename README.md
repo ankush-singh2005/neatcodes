@@ -41,6 +41,7 @@ i got you solutions for your leetcode screw ups
 | [0200-number-of-islands](https://github.com/ankush-singh2005/neatcodes/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/ankush-singh2005/neatcodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankush-singh2005/neatcodes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/ankush-singh2005/neatcodes/tree/master/0322-coin-change) |
@@ -190,6 +191,7 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/ankush-singh2005/neatcodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ankush-singh2005/neatcodes/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankush-singh2005/neatcodes/tree/master/1004-max-consecutive-ones-iii) |
