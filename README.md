@@ -16,6 +16,7 @@ i got you solutions for your leetcode screw ups
 | [0040-combination-sum-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ankush-singh2005/neatcodes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ankush-singh2005/neatcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankush-singh2005/neatcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankush-singh2005/neatcodes/tree/master/0055-jump-game) |
@@ -98,6 +99,7 @@ i got you solutions for your leetcode screw ups
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ankush-singh2005/neatcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush-singh2005/neatcodes/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ankush-singh2005/neatcodes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ankush-singh2005/neatcodes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankush-singh2005/neatcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -208,6 +210,7 @@ i got you solutions for your leetcode screw ups
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ankush-singh2005/neatcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ankush-singh2005/neatcodes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ankush-singh2005/neatcodes/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/ankush-singh2005/neatcodes/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ankush-singh2005/neatcodes/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ankush-singh2005/neatcodes/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankush-singh2005/neatcodes/tree/master/0076-minimum-window-substring) |
@@ -464,6 +467,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0018-4sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ankush-singh2005/neatcodes/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ankush-singh2005/neatcodes/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
