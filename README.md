@@ -104,6 +104,7 @@ i got you solutions for your leetcode screw ups
 | [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ankush-singh2005/neatcodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/ankush-singh2005/neatcodes/tree/master/0149-max-points-on-a-line) |
+| [0242-valid-anagram](https://github.com/ankush-singh2005/neatcodes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
@@ -213,6 +214,7 @@ i got you solutions for your leetcode screw ups
 | [0079-word-search](https://github.com/ankush-singh2005/neatcodes/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ankush-singh2005/neatcodes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ankush-singh2005/neatcodes/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/ankush-singh2005/neatcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ankush-singh2005/neatcodes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ankush-singh2005/neatcodes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankush-singh2005/neatcodes/tree/master/0424-longest-repeating-character-replacement) |
@@ -462,6 +464,7 @@ i got you solutions for your leetcode screw ups
 | ------- |
 | [0018-4sum](https://github.com/ankush-singh2005/neatcodes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ankush-singh2005/neatcodes/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/ankush-singh2005/neatcodes/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ankush-singh2005/neatcodes/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
