@@ -646,4 +646,8 @@ i got you solutions for your leetcode screw ups
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ankush-singh2005/neatcodes/tree/master/0881-boats-to-save-people) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankush-singh2005/neatcodes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
